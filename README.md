@@ -1,3 +1,13 @@
+<style media="screen">
+  h1,h2,h3,h4,h5,h6,h7,h8,hr{
+    border-bottom:solid 1px;
+  }
+  hr{
+    border:none;
+    outline:none;
+  }
+</style>
+
 
 ### Hi there, I'm Fabius - aka [Hairokuma][website] 👋
 
@@ -6,9 +16,8 @@
 
 
 <a href="[xing]">
-<div style="line-height: 40px;">
-<img align="left" height="40px" src="https://static.xingcdn.com/xws/assets/xws/dev/logo_rules/XNG_Sharebutton_v02-80d4fefd22918014c17b635c67390054a5933ed51c4a075b00f5dc69b4cb96d9.png">
- Xing
+<div>
+[<img align="left" alt="Retropie" src="https://static.xingcdn.com/xws/assets/xws/dev/logo_rules/XNG_Sharebutton_v02-80d4fefd22918014c17b635c67390054a5933ed51c4a075b00f5dc69b4cb96d9.png" />][xing][Xing][xing]
 </div>
 </a>
 
