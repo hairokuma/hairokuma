@@ -1,12 +1,11 @@
 
-### Hi there, I'm Fabius - aka [Hairokuma][website] 👋
-
+## Hi there, I'm Fabius - aka [Hairokuma][website]
 
 #### Visit my [Website][website] or Connect with me:
 
-[<img align="left" alt="Xing" width="20px" src="https://static.xingcdn.com/xws/assets/xws/dev/logo_rules/XNG_Sharebutton_v02-80d4fefd22918014c17b635c67390054a5933ed51c4a075b00f5dc69b4cb96d9.png" />][xing][Xing][xing]
-
 [<img align="left" alt="Xing" width="20px" src="https://cdn.icon-icons.com/icons2/272/PNG/128/Gmail_29991.png" />][mail][fabius.doelling@gmail.com][mail]
+
+[<img align="left" alt="Xing" width="20px" src="https://static.xingcdn.com/xws/assets/xws/dev/logo_rules/XNG_Sharebutton_v02-80d4fefd22918014c17b635c67390054a5933ed51c4a075b00f5dc69b4cb96d9.png" />][xing][xing.com/profile/Fabius_Doelling][xing]
 
 [<img align="left" alt="Xing" width="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github][github.com/hairokuma][github]
 
@@ -27,12 +26,12 @@
 - Setup
 - OS: Debian, Ubuntu, Windows 10
 - [Atom IDE][atom]
-- docker alache nginx MySQL
+- docker apache nginx MySQL
 - javascript ,jQuery, nodejs, css3(sass), bootstrap, html, php symfony,
 
 
 
-### hobbies
+### Hobbies
 
 **RaspberryPi**
 
