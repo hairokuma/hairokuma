@@ -1,4 +1,3 @@
-
 ## Hi there, I'm Fabius - aka [Hairokuma][website]
 
 #### Visit my [Website][website] or Connect with me:
@@ -13,15 +12,10 @@
 
 [<img align="left" alt="Xing" width="20px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" />][twitter][twitter.com/FabiD00520025][twitter]
 
-
-
-
-### I'm a Full stack Web Developer!!
-
+### I'm a Full Stack Web Developer!!
 
 
 - I’m looking to collaborate with other Developers
-- 2021 Goals: Get my Website up and running
 - Pimcore
 - Setup
 - OS: Debian, Ubuntu, Windows 10
@@ -29,29 +23,26 @@
 - docker apache nginx MySQL
 - javascript ,jQuery, nodejs, css3(sass), bootstrap, html, php symfony,
 
-
-
 ### Hobbies
 
 **RaspberryPi**
 
-[<img align="left" alt="Retropie" width="42px" src="https://retropie.org.uk/docs/images/logo.png" />][retropie][Retropie][retropie]<br> EmulatorGames
+[<img align="left" alt="Retropie" width="42px" src="https://retropie.org.uk/docs/images/logo.png" />][retropie][Retropie][retropie]
+EmulatorGames
 
-[<img align="left" alt="Retropie" width="42px" src="https://docs.nextcloud.com/server/22/developer_manual/_static/logo-white.png" />][nextcloud][Nextcloud][nextcloud]<br> Network Attached Storage
+[<img align="left" alt="Retropie" width="42px" src="https://docs.nextcloud.com/server/22/developer_manual/_static/logo-white.png" />][nextcloud][Nextcloud][nextcloud]
+Network Attached Storage
 
-[<img align="left" alt="Retropie" width="42px" src="https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.webp" />][pihole][PiHole][pihole]<br> DNS Ad-Blocker
+[<img align="left" alt="Retropie" width="42px" src="https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.webp" />][pihole][PiHole][pihole]
+DNS Ad-Blocker
 
 **Microcontrollers**
 
 - Arduino
 - NodeMCU (ESP32,ESP8266)
 - Seeeduino Xiao
-
----
-
 - Macro-Keyboard
 - Password-Manager
-
 
 ### Languages and Tools:
 
@@ -77,6 +68,8 @@
 [<img align="left" alt="GitHub" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][blank]
 
 [<img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][blank]
+
+[<img align="left" alt="Xing" width="42px" src="https://raw.githubusercontent.com/hairokuma/hairokuma/main/images/crosshairs-black.png" />][blank]
 
 <br />
 <br />

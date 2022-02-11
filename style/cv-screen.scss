@@ -1,0 +1,125 @@
+$left: 30%;
+$width: 70%;
+$color: #3333ff;
+$fontSize: 12px; // global
+
+@media screen {
+  body {
+    --color-border: #333;
+  }
+}
+
+@media print {
+  body {
+    --color-border: #eee;
+  }
+}
+
+body {
+  font-size: $fontSize !important;
+}
+
+.link,
+a {
+  color: $color;
+  font-family: monospace;
+}
+
+h1,
+h3,
+h4,
+h5,
+h6 {
+  border-bottom: solid 1px var(--color-border) !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  line-height: 1.1em !important;
+}
+
+h1 {
+  font-size: 2.5em !important;
+}
+
+h2 {
+  border: none !important;
+  font-size: 1.5em !important;
+  margin: .5em 0;
+}
+
+h3 {
+  border: none !important;
+  font-size: 1.25em !important;
+}
+
+p {
+  font-size: $fontSize;
+  margin-top: 0;
+}
+// right
+
+h1,
+h3,
+p,
+ul {
+  position: relative;
+  left: $left;
+  width: $width;
+}
+
+h1+p {
+  font-style: italic;
+  font-size: 1.1em;
+  margin-top: 0;
+}
+// left
+
+.img,
+h2,
+h4,
+h5,
+h6 {
+  position: relative;
+  left: 0;
+  text-align: right;
+  width: ($left - 4);
+}
+
+h4,h5 {
+  margin-bottom: 0;
+  position: relative;
+  font-size: $fontSize !important;
+  top: 1.1em;
+}
+
+h5{
+  border: none !important;
+}
+
+.img{
+  p{
+    width: 100%;
+    left: 0;
+  }
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+
+h3+ul {
+  margin: 1em 0 !important;
+  padding: 0 !important;
+  list-style: none;
+}
