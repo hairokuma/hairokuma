@@ -27,14 +27,11 @@
 
 **RaspberryPi**
 
-[<img align="left" alt="Retropie" width="42px" src="https://retropie.org.uk/docs/images/logo.png" />][retropie][Retropie][retropie]
-EmulatorGames
+[<img align="left" alt="Retropie" width="42px" src="https://retropie.org.uk/docs/images/logo.png" />][retropie][Retropie][retropie]<br> EmulatorGames
 
-[<img align="left" alt="Retropie" width="42px" src="https://docs.nextcloud.com/server/22/developer_manual/_static/logo-white.png" />][nextcloud][Nextcloud][nextcloud]
-Network Attached Storage
+[<img align="left" alt="Retropie" width="42px" src="https://docs.nextcloud.com/server/22/developer_manual/_static/logo-white.png" />][nextcloud][Nextcloud][nextcloud]<br> Network Attached Storage
 
-[<img align="left" alt="Retropie" width="42px" src="https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.webp" />][pihole][PiHole][pihole]
-DNS Ad-Blocker
+[<img align="left" alt="Retropie" width="42px" src="https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.webp" />][pihole][PiHole][pihole]<br> DNS Ad-Blocker
 
 **Microcontrollers**
 
