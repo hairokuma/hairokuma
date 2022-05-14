@@ -14,14 +14,14 @@
 
 ### I'm a Full Stack Web Developer!!
 
-
+- View my [CV][cv] (German)
 - I’m looking to collaborate with other Developers
 - Pimcore
 - Setup
 - OS: Debian, Ubuntu, Windows 10
 - [Atom IDE][atom]
-- docker apache nginx MySQL
-- javascript ,jQuery, nodejs, css3(sass), bootstrap, html, php symfony,
+- docker, apache, nginx, MySQL
+- javascript, jQuery, nodejs, css (sass), bootstrap, HTML, PHP symfony,
 
 ### Hobbies
 
@@ -31,12 +31,13 @@
 
 [<img align="left" alt="Retropie" width="42px" src="https://docs.nextcloud.com/server/22/developer_manual/_static/logo-white.png" />][nextcloud][Nextcloud][nextcloud]<br> Network Attached Storage
 
-[<img align="left" alt="Retropie" width="42px" src="https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.webp" />][pihole][PiHole][pihole]<br> DNS Ad-Blocker
+[<img align="left" alt="Retropie" width="42px" src="https://avatars.githubusercontent.com/u/93388274" />][pihosted][Pi-Hosted][pihosted]<br> Self-Hosted Server applications
+
 
 **Microcontrollers**
 
 - Arduino
-- NodeMCU (ESP32,ESP8266)
+- NodeMCU (ESP32, ESP8266)
 - Seeeduino Xiao
 - Macro-Keyboard
 - Password-Manager
@@ -66,7 +67,7 @@
 
 [<img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][blank]
 
-[<img align="left" alt="Xing" width="42px" src="https://raw.githubusercontent.com/hairokuma/hairokuma/main/images/crosshairs-black.png" />][blank]
+[<img align="left" alt="Xing" width="42px" src="https://user-images.githubusercontent.com/73652611/168427690-b9d7f5eb-1359-455b-a2ce-89b4e37f5f81.jpg" />][xing]
 
 <br />
 <br />
@@ -75,11 +76,13 @@
 [atom]: https://atom.io
 [retropie]: https://retropie.org.uk/
 [nextcloud]: https://docs.nextcloud.com
+[pihosted]: https://github.com/pi-hosted/pi-hosted
 [pihole]: https://pi-hole.net/
 [xing]: https://www.xing.com/profile/Fabius_Doelling/cv
 [mail]: mailto:fabius.doelling@gmail.com
 [github]: https://github.com/hairokuma
 [instagram]: https://www.instagram.com/mrfabi_
 [twitter]: https://twitter.com/FabiD00520025
-[website]: https://google.com
-[blank]: https://google.com
+[website]: https://hairokuma.ddns.net/
+[blank]: #
+[cv]: https://github.com/hairokuma/hairokuma/blob/main/CV_de.md
